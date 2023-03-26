@@ -1,0 +1,3 @@
+[submodule "MultiAreaConditioning"]
+  path = MultiAreaConditioning
+  url = https://github.com/Davemane42/ComfyUI_Dave_CustomNode
